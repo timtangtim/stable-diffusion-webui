@@ -1,0 +1,3 @@
+[submodule "extensions/stable-diffusion-webui-images-browser"]
+	path = extensions/stable-diffusion-webui-images-browser
+	url = https://github.com/yfszzx/stable-diffusion-webui-images-browser
